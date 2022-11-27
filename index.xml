@@ -5,7 +5,17 @@
     <link>https://xiaoxue-xx.github.io/</link>
     <description>Recent content on XZ Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://xiaoxue-xx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaoxue-xx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My Blog</title>
+      <link>https://xiaoxue-xx.github.io/post/first/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xiaoxue-xx.github.io/post/first/</guid>
+      <description>欢迎光临~</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://xiaoxue-xx.github.io/about/</link>
