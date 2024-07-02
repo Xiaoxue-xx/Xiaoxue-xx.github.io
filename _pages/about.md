@@ -18,25 +18,19 @@ Hi, welcome to my website! I am Xiaoxue Cheng (成晓雪), a first-year master�
 
 # Publications
 
-[**ACL 2024 Main**] **The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models**
-
-[[paper](https://arxiv.org/abs/2401.03205)] [[code](https://github.com/RUCAIBox/HaluEval-2.0)]
+[**ACL 2024 Main**] **The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models** [[paper](https://arxiv.org/abs/2401.03205)] [[code](https://github.com/RUCAIBox/HaluEval-2.0)]
 
 Junyi Li,  Jie Chen,  Ruiyang Ren,  **Xiaoxue Cheng**,  Wayne Xin Zhao,  Jian-Yun Nie, Ji-Rong Wen
 
 In the era of large language models (LLMs), hallucination (i.e., the tendency to generate factually incorrect content) poses great 			challenge to trustworthy and reliable deployment of LLMs in real-world applications. To tackle the LLM hallucination, three key questions should be well studied: how to detect hallucinations (detection), why do LLMs hallucinate (source), and what can be done to mitigate them (mitigation). To address these challenges, this work presents a systematic empirical study on LLM hallucination, focused on the the three aspects of hallucination detection, source and mitigation. Specially, we construct a new hallucination benchmark HaluEval 2.0, and designs a simple yet effective detection method for LLM hallucination. Furthermore, we zoom into the different training or utilization stages of LLMs and extensively analyze the potential factors that lead to the LLM hallucination. Finally, we implement and examine a series of widely used techniques to mitigate the hallucinations in LLMs. Our work has led to several important findings to understand the hallucination origin and mitigate the hallucinations in LLMs.
 
-[**LREC-COLING  2024**] **ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting** 
-
-[[paper](https://arxiv.org/abs/2403.14312)] [[code](https://github.com/Xiaoxue-xx/ChainLM)]
+[**LREC-COLING  2024**] **ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting** [[paper](https://arxiv.org/abs/2403.14312)] [[code](https://github.com/Xiaoxue-xx/ChainLM)]
 
 **Xiaoxue Cheng**,  Junyi Li,  Wayne Xin Zhao, Ji-Rong Wen
 
 Chain-of-Thought (CoT) prompting can enhance the reasoning capabilities of large language models (LLMs), establishing itself as a primary approach to solving complex reasoning tasks. Existing CoT synthesis approaches usually focus on simpler reasoning tasks and thus result in low-quality and inconsistent CoT prompts. In response to this challenge, we present an empirical investigation of CoT prompting and introduce CoTGenius, a novel framework designed for the automatic generation of superior CoT prompts. CoTGenius is developed based on three major evolution strategies, i.e., complicate, diversify, and specify-alongside two filtering mechanisms: evolutionary success judgement and correctness verification. We further employ CoTGenius to create an extensive CoT dataset, and subsequently fine-tune the Llama 2-Chat 7B and 13B models on this dataset. We call the resulting model ChainLM. To deal with the cumulative error issue in reasoning steps, we propose a step-level debating method, wherein multiple debaters discuss each reasoning step to arrive at the correct answer. Extensive experiments demonstrate that our ChainLM models exhibit enhanced proficiency in addressing a spectrum of complex reasoning problems compared to existing models. In addition, we conduct an in-depth analysis of the impact of data categories within CoTGenius on the model performance.
 
-[**EMNLP 2023 Main**] **HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models** 
-
-[[paper](https://arxiv.org/abs/2305.11747)] [[code](https://github.com/RUCAIBox/HaluEval)]
+[**EMNLP 2023 Main**] **HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models** [[paper](https://arxiv.org/abs/2305.11747)] [[code](https://github.com/RUCAIBox/HaluEval)]
 
 Junyi Li †,  **Xiaoxue Cheng** †,  Wayne Xin Zhao ,  Jian-Yun Nie , Ji-Rong Wen
 
