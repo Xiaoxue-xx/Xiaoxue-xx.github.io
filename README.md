@@ -1,2 +1,3 @@
-# [[Xiaoxue-xx.github.io]https://xiaoxue-xx.github.io/]
+# [Xiaoxue-xx.github.io](https://xiaoxue-xx.github.io/)
+
 My website
