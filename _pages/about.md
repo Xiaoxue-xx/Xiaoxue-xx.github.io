@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, welcome to my website! I am Xiaoxue Cheng (成晓雪), a first-year master’s student in Artificial Intelligence at Renmin University of China, under the supervision of [Prof. Xin Zhao](http://aibox.ruc.edu.cn/). I completed my undergraduate studies at Tianjin University, where I majored in Artificial Intelligence. My research interests include natural language processing, particularly with large language models (LLMs).
+Hi, welcome to my website! I am Xiaoxue Cheng (成晓雪), a second-year master’s student in Artificial Intelligence at Renmin University of China, under the supervision of [Prof. Xin Zhao](http://aibox.ruc.edu.cn/). I completed my undergraduate studies at Tianjin University, where I majored in Artificial Intelligence. My research interests include natural language processing, particularly with large language models (LLMs).
 
 # Experiences
 
