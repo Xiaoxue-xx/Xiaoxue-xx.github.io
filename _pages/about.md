@@ -11,6 +11,8 @@ Hi, welcome to my website! I am Xiaoxue Cheng (成晓雪), a first-year master�
 
 # Experiences
 
+* March 2024 – Present: Internship at Kuaishou
+
 ## Education
 
 - Master student, Artificial Intelligence, Renmin University of China, Sept. 2023 - Jul. 2026 (Expected)
@@ -18,11 +20,17 @@ Hi, welcome to my website! I am Xiaoxue Cheng (成晓雪), a first-year master�
 
 # Publications
 
+[**EMNLP 2024 Main**] **Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**[[paper](https://arxiv.org/abs/2406.11277)] [[code](https://github.com/RUCAIBox/HaluAgent)]
+
+**Xiaoxue Cheng**, Junyi Li, Wayne Xin Zhao, Hongzhi Zhang, Fuzheng Zhang, Di Zhang, Kun Gai, Ji-Rong Wen
+
+Hallucination detection is a challenging task for large language models (LLMs), and existing studies heavily rely on powerful closed-source LLMs such as GPT-4. In this paper, we propose an autonomous LLM-based agent framework, called HaluAgent, which enables relatively smaller LLMs (e.g. Baichuan2-Chat 7B) to actively select suitable tools for detecting multiple hallucination types such as text, code, and mathematical expression. In HaluAgent, we integrate the LLM, multi-functional toolbox, and design a fine-grained three-stage detection framework along with memory mechanism. To facilitate the effectiveness of HaluAgent, we leverage existing Chinese and English datasets to synthesize detection trajectories for fine-tuning, which endows HaluAgent with the capability for bilingual hallucination detection. Extensive experiments demonstrate that only using 2K samples for tuning LLMs, HaluAgent can perform hallucination detection on various types of tasks and datasets, achieving performance comparable to or even higher than GPT-4 without tool enhancements on both in-domain and out-of-domain datasets. 
+
 [**ACL 2024 Main**] **The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models** [[paper](https://arxiv.org/abs/2401.03205)] [[code](https://github.com/RUCAIBox/HaluEval-2.0)]
 
 Junyi Li,  Jie Chen,  Ruiyang Ren,  **Xiaoxue Cheng**,  Wayne Xin Zhao,  Jian-Yun Nie, Ji-Rong Wen
 
-In the era of large language models (LLMs), hallucination (i.e., the tendency to generate factually incorrect content) poses great 			challenge to trustworthy and reliable deployment of LLMs in real-world applications. To tackle the LLM hallucination, three key questions should be well studied: how to detect hallucinations (detection), why do LLMs hallucinate (source), and what can be done to mitigate them (mitigation). To address these challenges, this work presents a systematic empirical study on LLM hallucination, focused on the the three aspects of hallucination detection, source and mitigation. Specially, we construct a new hallucination benchmark HaluEval 2.0, and designs a simple yet effective detection method for LLM hallucination. Furthermore, we zoom into the different training or utilization stages of LLMs and extensively analyze the potential factors that lead to the LLM hallucination. Finally, we implement and examine a series of widely used techniques to mitigate the hallucinations in LLMs. Our work has led to several important findings to understand the hallucination origin and mitigate the hallucinations in LLMs.
+In the era of large language models (LLMs), hallucination (i.e., the tendency to generate factually incorrect content) poses great challenge to trustworthy and reliable deployment of LLMs in real-world applications. To tackle the LLM hallucination, three key questions should be well studied: how to detect hallucinations (detection), why do LLMs hallucinate (source), and what can be done to mitigate them (mitigation). To address these challenges, this work presents a systematic empirical study on LLM hallucination, focused on the the three aspects of hallucination detection, source and mitigation. Specially, we construct a new hallucination benchmark HaluEval 2.0, and designs a simple yet effective detection method for LLM hallucination. Furthermore, we zoom into the different training or utilization stages of LLMs and extensively analyze the potential factors that lead to the LLM hallucination. Finally, we implement and examine a series of widely used techniques to mitigate the hallucinations in LLMs. Our work has led to several important findings to understand the hallucination origin and mitigate the hallucinations in LLMs.
 
 [**LREC-COLING  2024**] **ChainLM: Empowering Large Language Models with Improved Chain-of-Thought Prompting** [[paper](https://arxiv.org/abs/2403.14312)] [[code](https://github.com/Xiaoxue-xx/ChainLM)]
 
