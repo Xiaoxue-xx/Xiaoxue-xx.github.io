@@ -11,7 +11,8 @@ Hi, welcome to my website! I am Xiaoxue Cheng (成晓雪), a second-year master�
 
 # Experiences
 
-* March 2024 – Present: Internship at Kuaishou
+* Feb. 2025 – May. 2025: Internship at Ant Group
+* Mar. 2024 – Feb. 2025: Internship at Kuaishou
 
 ## Education
 
